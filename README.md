@@ -47,7 +47,7 @@ If you use this code in your research, please cite the following paper:
 ```bibtex
 @article{Tree_based_NN_Error_analysis,
   author = {},
-  title = {Analyzing the Behaviour of Tree-Based Neural Networks in Regression Tasks},
+  title = {Dual-Transformer Architecture for Cross-Modal Learning on Tree-Structured Data in Regression Tasks},
   year = {},
   journal = {},
   note = {Under submission},
