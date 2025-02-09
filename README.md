@@ -45,7 +45,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 If you use this code in your research, please cite the following paper:
 
 ```bibtex
-@article{Tree_based_NN_Error_analysis,
+@article{Tree_based_NN_Regression_analysis,
   author = {},
   title = {Dual-Transformer Architecture for Cross-Modal Learning on Tree-Structured Data in Regression Tasks},
   year = {},
