@@ -1,4 +1,4 @@
-# Tree-based NN Error Analysis
+# Tree-based NN For Regression Analysis
 
 This project aims to analyze errors in neural network predictions using tree-based models. It is based on the paper **"Analyzing the Behaviour of Tree-Based Neural Networks in Regression Tasks"**, currently in the submission process. The goal is to understand and improve the performance of neural networks by leveraging tree-based insights.
 
